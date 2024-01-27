@@ -450,6 +450,10 @@ footer {
         margin: 20px 0;
     }
 
+    img {
+        width: 100%;
+    }
+    
     .header__block {
         width: 100%;
         display: grid;
