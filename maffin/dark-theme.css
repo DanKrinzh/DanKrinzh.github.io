@@ -1,0 +1,24 @@
+body {
+  color: #eee;
+  background: #121212;
+}
+body a {
+  color: #809fff;
+}
+
+input {
+  background-color: #121212;
+}
+
+.rectangle {
+  background: black;
+}
+
+footer {
+  background-color: #121212;
+}
+
+.lower {
+  background-color: #121212;
+  color: #fff;
+}
